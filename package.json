@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/nikitadnet/frontend-project-lvl1.git"
   },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "author": "Nikita Demchenko",
   "license": "ISC",
   "bugs": {
